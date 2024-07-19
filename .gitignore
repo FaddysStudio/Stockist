@@ -1,0 +1,7 @@
+*._
+*.Faddys*
+*package-lock.json
+*node_modules
+*scratch
+*swp
+*nano.save*
